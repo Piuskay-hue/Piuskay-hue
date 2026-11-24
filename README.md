@@ -56,6 +56,18 @@ I am particularly interested in understanding how emerging technologies can be t
 
 ---
 
+## Verified work
+
+| Project | What it is | Status |
+|---|---|---|
+| [melody-scope-demo](https://github.com/Piuskay-hue/melody-scope-demo) | Go example of scoped services in the Melody v3 framework, with a technical article. Built and run on Windows and Linux in GitHub Actions. | Public |
+| [precision-soft/melody#40](https://github.com/precision-soft/melody/pull/40) | README update pointing new users to the v3 code | Open PR |
+| [Godcreatebugs/raytrace-cli#126](https://github.com/Godcreatebugs/raytrace-cli/pull/126) | README fixes for a video GitHub didn't display and an outdated setup note | Open PR |
+
+I use AI tools in my work and say so. Everything here links to a run, a commit or a line of code you can check.
+
+---
+
 ##  ENGINEERING DOMAINS`
 
    <table>
